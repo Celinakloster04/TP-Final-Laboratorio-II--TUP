@@ -1,0 +1,2091 @@
+# depslib dependency file v1.0
+1717591798 source:c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1717591658 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\menuprincipal.h
+
+1717506063 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\clasefecha.h
+
+1717506063 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\clasefacturacion.h
+
+1717508610 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\archivofacturacion.h
+
+1717592779 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\archivodetallefacturacion.h
+
+1717508175 source:c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+
+1717506063 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\clasefecha.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\menuprincipal.h
+
+1717508242 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\clasemascota.h
+
+1717508531 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\archivomascota.h
+
+1717507997 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\clasepropietario.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\archivopropietario.h
+
+1717508580 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\claseempleado.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\archivoempleado.h
+
+1717508591 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\claseservicio.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\archivoservicio.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\clasefacturacion.h
+
+1717508610 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\archivofacturacion.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\archivodetallefacturacion.h
+
+1717508085 c:\users\lenovo\onedrive\escritorio\vetfile++2\tp_final_lab2\funciones.h
+
+1717591798 source:d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1717597589 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\funciones.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\clasefecha.h
+
+1717591658 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\menuprincipal.h
+
+1717592779 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\clasemascota.h
+
+1717508531 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\archivomascota.h
+
+1717507997 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\clasepropietario.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\archivopropietario.h
+
+1717508580 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\claseempleado.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\archivoempleado.h
+
+1717597796 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\claseservicio.h
+
+1717597614 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\archivoservicio.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\clasefacturacion.h
+
+1717508610 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\archivofacturacion.h
+
+1717592779 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\archivodetallefacturacion.h
+
+1717590997 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\submenumodificar.h
+
+1717593208 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\submenupropietarios.h
+
+1717590997 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\submenuempleados.h
+
+1717597614 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\submenuservicio.h
+
+1717591392 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\submenufacturacion.h
+
+1717591585 d:\utn\cursando\lab\9.trabajopracticofinal\2\vetfile++2\tp_final_lab2\submenuconfiguracion.h
+
+1717597589 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\funciones.h
+
+1717715908 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\clasemascota.h
+
+1717720248 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\archivomascota.h
+
+1717715911 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\clasepropietario.h
+
+1717715789 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\archivopropietario.h
+
+1717508580 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\claseempleado.h
+
+1717506063 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\archivoempleado.h
+
+1717720061 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\claseservicio.h
+
+1717718744 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\archivoservicio.h
+
+1717716288 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\submenumodificar.h
+
+1717723309 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\submenupropietarios.h
+
+1717720034 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\submenuempleados.h
+
+1717723304 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\submenuservicio.h
+
+1717720248 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\submenufacturacion.h
+
+1717717178 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2\submenuconfiguracion.h
+
+1718581539 source:d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1717597589 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\funciones.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\clasefecha.h
+
+1717591658 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\menuprincipal.h
+
+1718581969 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\clasemascota.h
+
+1717720248 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\archivomascota.h
+
+1718587429 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\clasepropietario.h
+
+1717715789 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\archivopropietario.h
+
+1717508580 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\claseempleado.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\archivoempleado.h
+
+1717720061 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\claseservicio.h
+
+1717718744 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\archivoservicio.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\clasefacturacion.h
+
+1717508610 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\archivofacturacion.h
+
+1717592779 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\archivodetallefacturacion.h
+
+1717716288 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\submenumodificar.h
+
+1718588531 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\submenupropietarios.h
+
+1717720034 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\submenuempleados.h
+
+1717723304 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\submenuservicio.h
+
+1717723484 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\submenufacturacion.h
+
+1717717178 d:\utn\cursando\lab\9.trabajopracticofinal\3\tp_final_lab2\submenuconfiguracion.h
+
+1718654609 source:c:\users\matias duran\desktop\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1717597589 c:\users\matias duran\desktop\tp_final_lab2\funciones.h
+
+1717506063 c:\users\matias duran\desktop\tp_final_lab2\clasefecha.h
+
+1717591658 c:\users\matias duran\desktop\tp_final_lab2\menuprincipal.h
+
+1718653620 c:\users\matias duran\desktop\tp_final_lab2\clasemascota.h
+
+1718653628 c:\users\matias duran\desktop\tp_final_lab2\archivomascota.h
+
+1718587429 c:\users\matias duran\desktop\tp_final_lab2\clasepropietario.h
+
+1717715789 c:\users\matias duran\desktop\tp_final_lab2\archivopropietario.h
+
+1717508580 c:\users\matias duran\desktop\tp_final_lab2\claseempleado.h
+
+1717506063 c:\users\matias duran\desktop\tp_final_lab2\archivoempleado.h
+
+1717720061 c:\users\matias duran\desktop\tp_final_lab2\claseservicio.h
+
+1717718744 c:\users\matias duran\desktop\tp_final_lab2\archivoservicio.h
+
+1717506063 c:\users\matias duran\desktop\tp_final_lab2\clasefacturacion.h
+
+1717508610 c:\users\matias duran\desktop\tp_final_lab2\archivofacturacion.h
+
+1717592779 c:\users\matias duran\desktop\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 c:\users\matias duran\desktop\tp_final_lab2\archivodetallefacturacion.h
+
+1717716288 c:\users\matias duran\desktop\tp_final_lab2\submenumodificar.h
+
+1718658233 c:\users\matias duran\desktop\tp_final_lab2\submenupropietarios.h
+
+1717720034 c:\users\matias duran\desktop\tp_final_lab2\submenuempleados.h
+
+1717723304 c:\users\matias duran\desktop\tp_final_lab2\submenuservicio.h
+
+1717723484 c:\users\matias duran\desktop\tp_final_lab2\submenufacturacion.h
+
+1717717178 c:\users\matias duran\desktop\tp_final_lab2\submenuconfiguracion.h
+
+1718654609 source:d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1717597589 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\funciones.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\clasefecha.h
+
+1717591658 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\menuprincipal.h
+
+1718718255 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\clasemascota.h
+
+1718653628 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\archivomascota.h
+
+1718658979 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\clasepropietario.h
+
+1717715789 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\archivopropietario.h
+
+1717508580 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\claseempleado.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\archivoempleado.h
+
+1717720061 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\claseservicio.h
+
+1717718744 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\archivoservicio.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\clasefacturacion.h
+
+1717508610 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\archivofacturacion.h
+
+1717592779 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\archivodetallefacturacion.h
+
+1717716288 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\submenumodificar.h
+
+1718658233 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\submenupropietarios.h
+
+1717720034 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\submenuempleados.h
+
+1717723304 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\submenuservicio.h
+
+1717723484 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\submenufacturacion.h
+
+1717717178 d:\utn\cursando\lab\9.trabajopracticofinal\4\tp_final_lab2\submenuconfiguracion.h
+
+1718718554 source:c:\users\lenovo\onedrive\escritorio\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1717597589 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\funciones.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\clasefecha.h
+
+1717591658 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\menuprincipal.h
+
+1718718255 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\clasemascota.h
+
+1718653628 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\archivomascota.h
+
+1718658979 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\clasepropietario.h
+
+1717715789 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\archivopropietario.h
+
+1717508580 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\claseempleado.h
+
+1718721697 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\archivoempleado.h
+
+1717720061 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\claseservicio.h
+
+1717718744 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\archivoservicio.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\clasefacturacion.h
+
+1717508610 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\archivofacturacion.h
+
+1717592779 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\archivodetallefacturacion.h
+
+1717716288 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\submenumodificar.h
+
+1718658233 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\submenupropietarios.h
+
+1718721459 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\submenuempleados.h
+
+1717723304 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\submenuservicio.h
+
+1717723484 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\submenufacturacion.h
+
+1717717178 c:\users\lenovo\onedrive\escritorio\tp_final_lab2\submenuconfiguracion.h
+
+1718718554 source:c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1717597589 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\funciones.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\clasefecha.h
+
+1717591658 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\menuprincipal.h
+
+1718718255 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\clasemascota.h
+
+1718653628 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\archivomascota.h
+
+1718658979 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\clasepropietario.h
+
+1717715789 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\archivopropietario.h
+
+1718762180 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\claseempleado.h
+
+1718721697 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\archivoempleado.h
+
+1717720061 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\claseservicio.h
+
+1717718744 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\archivoservicio.h
+
+1717506063 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\clasefacturacion.h
+
+1717508610 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\archivofacturacion.h
+
+1717592779 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\archivodetallefacturacion.h
+
+1717716288 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\submenumodificar.h
+
+1718658233 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\submenupropietarios.h
+
+1718721459 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\submenuempleados.h
+
+1717723304 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\submenuservicio.h
+
+1717723484 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\submenufacturacion.h
+
+1717717178 c:\users\lenovo\onedrive\escritorio\tp_final_lab2 (4)\tp_final_lab2\submenuconfiguracion.h
+
+1718915215 source:d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1718921409 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\funciones.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\clasefecha.h
+
+1717591658 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\menuprincipal.h
+
+1718914168 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\clasemascota.h
+
+1718916155 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\archivomascota.h
+
+1718914913 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\clasepropietario.h
+
+1718915918 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\archivopropietario.h
+
+1718762180 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\claseempleado.h
+
+1718721697 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\archivoempleado.h
+
+1717720061 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\claseservicio.h
+
+1717718744 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\archivoservicio.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\clasefacturacion.h
+
+1717508610 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\archivofacturacion.h
+
+1717592779 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\clasedetallefacturacion.h
+
+1717508619 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\archivodetallefacturacion.h
+
+1718915751 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\submenumodificar.h
+
+1718921325 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\submenupropietarios.h
+
+1718721459 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\submenuempleados.h
+
+1718843605 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\submenuservicio.h
+
+1717723484 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\submenufacturacion.h
+
+1717717178 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (4)\tp_final_lab2\submenuconfiguracion.h
+
+1718915215 source:d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1718921409 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\funciones.h
+
+1717506063 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\clasefecha.h
+
+1717591658 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\menuprincipal.h
+
+1718939108 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\clasemascota.h
+
+1718939161 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\archivomascota.h
+
+1718914913 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\clasepropietario.h
+
+1718915918 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\archivopropietario.h
+
+1718762180 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\claseempleado.h
+
+1718721697 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\archivoempleado.h
+
+1717720061 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\claseservicio.h
+
+1717718744 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\archivoservicio.h
+
+1718939807 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\clasefacturacion.h
+
+1718934082 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\archivofacturacion.h
+
+1718934082 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\clasedetallefacturacion.h
+
+1718934082 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\archivodetallefacturacion.h
+
+1718934306 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\submenumodificar.h
+
+1718935082 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\submenupropietarios.h
+
+1718721459 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\submenuempleados.h
+
+1718943628 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\submenuservicio.h
+
+1718934082 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\submenufacturacion.h
+
+1717717178 d:\utn\cursando\lab\9.trabajopracticofinal\5\tp_final_lab2 (6)\tp_final_lab2\submenuconfiguracion.h
+
+1719114653 source:c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1718944156 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\funciones.h
+
+1719078915 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\clasefecha.h
+
+1719108802 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\menuprincipal.h
+
+1719111426 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\clasemascota.h
+
+1718939161 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\archivomascota.h
+
+1719105902 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\clasepropietario.h
+
+1718915918 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\archivopropietario.h
+
+1718762180 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\claseempleado.h
+
+1718721697 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\archivoempleado.h
+
+1719114628 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\claseservicio.h
+
+1719079866 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\archivoservicio.h
+
+1719114903 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\clasefacturacion.h
+
+1719114694 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\archivofacturacion.h
+
+1718934082 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\clasedetallefacturacion.h
+
+1718944346 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\archivodetallefacturacion.h
+
+1719108798 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\submenumodificar.h
+
+1719108804 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\submenupropietarios.h
+
+1718721459 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\submenuempleados.h
+
+1719110692 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\submenuservicio.h
+
+1719087195 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\submenufacturacion.h
+
+1717717178 c:\users\celin\onedrive\escritorio\tp final lab 2\tp_final_lab2 (7)\tp_final_lab2\submenuconfiguracion.h
+
+1719114653 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1718944156 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\funciones.h
+
+1719078915 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\clasefecha.h
+
+1719108802 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\menuprincipal.h
+
+1719111426 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\clasemascota.h
+
+1718939161 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\archivomascota.h
+
+1719105902 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\clasepropietario.h
+
+1718915918 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\archivopropietario.h
+
+1718762180 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\claseempleado.h
+
+1718721697 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\archivoempleado.h
+
+1719115328 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\claseservicio.h
+
+1719079866 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\archivoservicio.h
+
+1719118015 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\clasefacturacion.h
+
+1719118015 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\archivofacturacion.h
+
+1718934082 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\clasedetallefacturacion.h
+
+1718944346 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\archivodetallefacturacion.h
+
+1719108798 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\submenumodificar.h
+
+1719108804 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\submenupropietarios.h
+
+1718721459 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\submenuempleados.h
+
+1719119635 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\submenuservicio.h
+
+1719087195 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\submenufacturacion.h
+
+1717717178 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_8\tp_final_lab2 (7)\tp_final_lab2\submenuconfiguracion.h
+
+1719119728 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1718944156 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\funciones.h
+
+1719078915 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasefecha.h
+
+1719108802 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\menuprincipal.h
+
+1719111426 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasemascota.h
+
+1719193296 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivomascota.h
+
+1719105902 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasepropietario.h
+
+1719193296 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivopropietario.h
+
+1718762180 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\claseempleado.h
+
+1718721697 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivoempleado.h
+
+1719115328 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\claseservicio.h
+
+1719193296 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivoservicio.h
+
+1719118015 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasefacturacion.h
+
+1719193296 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivofacturacion.h
+
+1718934082 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasedetallefacturacion.h
+
+1718944346 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivodetallefacturacion.h
+
+1719192337 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasedescripcionservicio.h
+
+1719193296 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivodescripcionservicio.h
+
+1719108798 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenumodificar.h
+
+1719108804 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenupropietarios.h
+
+1718721459 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenuempleados.h
+
+1719119635 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenuservicio.h
+
+1719087195 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenufacturacion.h
+
+1719192900 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenuconfiguracion.h
+
+1719119728 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1718944156 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\funciones.h
+
+1719078915 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasefecha.h
+
+1719108802 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\menuprincipal.h
+
+1719111426 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasemascota.h
+
+1719196497 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivomascota.h
+
+1719105902 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasepropietario.h
+
+1719196497 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivopropietario.h
+
+1718762180 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\claseempleado.h
+
+1718721697 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivoempleado.h
+
+1719115328 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\claseservicio.h
+
+1719196497 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivoservicio.h
+
+1719118015 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasefacturacion.h
+
+1719196497 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivofacturacion.h
+
+1718934082 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasedetallefacturacion.h
+
+1718944346 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivodetallefacturacion.h
+
+1719192337 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\clasedescripcionservicio.h
+
+1719196497 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\archivodescripcionservicio.h
+
+1719108798 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenumodificar.h
+
+1719108804 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenupropietarios.h
+
+1718721459 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenuempleados.h
+
+1719119635 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenuservicio.h
+
+1719087195 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenufacturacion.h
+
+1719196232 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_10\tp_final_labo2_9\tp_final_lab2 (7)\tp_final_lab2\submenuconfiguracion.h
+
+1719289121 source:d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"Funciones.h"
+	"ClaseFecha.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1718944156 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\funciones.h
+
+1719078915 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\clasefecha.h
+
+1719284043 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\menuprincipal.h
+
+1719111426 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\clasemascota.h
+
+1719196497 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\archivomascota.h
+
+1719105902 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\clasepropietario.h
+
+1719196497 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\archivopropietario.h
+
+1718762180 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\claseempleado.h
+
+1718721697 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\archivoempleado.h
+
+1719288035 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\claseservicio.h
+
+1719286474 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\archivoservicio.h
+
+1719118015 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\clasefacturacion.h
+
+1719275718 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\archivofacturacion.h
+
+1718934082 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\clasedetallefacturacion.h
+
+1718944346 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\archivodetallefacturacion.h
+
+1719192337 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\clasedescripcionservicio.h
+
+1719289664 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\archivodescripcionservicio.h
+
+1719108798 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\submenumodificar.h
+
+1719283532 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\submenupropietarios.h
+
+1719283828 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\submenuempleados.h
+
+1719289805 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\submenuservicio.h
+
+1719282679 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\submenufacturacion.h
+
+1719196232 d:\utn\cursando\lab\9.trabajopracticofinal\7\tp_final_lab2\submenuconfiguracion.h
+
+1719534170 source:c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1719536072 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\funciones.h
+
+1719359277 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\clasefecha.h
+
+1719541456 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\menuprincipal.h
+
+1719533466 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\clasemascota.h
+
+1719535467 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\archivomascota.h
+
+1719529653 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\clasepropietario.h
+
+1719535576 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\archivopropietario.h
+
+1718762180 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\claseempleado.h
+
+1718721697 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\archivoempleado.h
+
+1719534159 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\claseservicio.h
+
+1719533069 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\archivoservicio.h
+
+1719534559 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\clasefacturacion.h
+
+1719535272 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\archivofacturacion.h
+
+1719534324 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719541572 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719192337 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719289664 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719535344 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\submenumodificar.h
+
+1719531334 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\submenupropietarios.h
+
+1719283828 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\submenuempleados.h
+
+1719534169 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\submenuservicio.h
+
+1719541581 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\submenufacturacion.h
+
+1719196232 c:\users\celin\onedrive\escritorio\tp final lab\tp_final_lab2_12\submenuconfiguracion.h
+
+1719534170 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1719359277 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\clasefecha.h
+
+1719536072 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\funciones.h
+
+1719541456 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\menuprincipal.h
+
+1719713467 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\clasemascota.h
+
+1719722633 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\archivomascota.h
+
+1719711248 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\clasepropietario.h
+
+1719714033 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\archivopropietario.h
+
+1718762180 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\claseempleado.h
+
+1719714314 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\archivoempleado.h
+
+1719192337 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719714033 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719720547 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\claseservicio.h
+
+1719714157 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\archivoservicio.h
+
+1719534559 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\clasefacturacion.h
+
+1719714157 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\archivofacturacion.h
+
+1719721275 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719715743 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719722439 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\submenumodificar.h
+
+1719722330 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\submenupropietarios.h
+
+1719706614 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\submenuempleados.h
+
+1719534169 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\submenuservicio.h
+
+1719541581 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\submenufacturacion.h
+
+1719196232 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v16\tp_final_lab2_12\submenuconfiguracion.h
+
+1719775798 source:c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1719774982 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\clasefecha.h
+
+1719536072 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\funciones.h
+
+1719777512 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\menuprincipal.h
+
+1719713467 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\clasemascota.h
+
+1719771880 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\archivomascota.h
+
+1719711248 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\clasepropietario.h
+
+1719714033 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\archivopropietario.h
+
+1718762180 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\claseempleado.h
+
+1719714314 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\archivoempleado.h
+
+1719192337 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719714033 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719768081 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\claseservicio.h
+
+1719768568 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\archivoservicio.h
+
+1719534559 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\clasefacturacion.h
+
+1719775266 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\archivofacturacion.h
+
+1719773632 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719776808 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719722439 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\submenumodificar.h
+
+1719722330 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\submenupropietarios.h
+
+1719706614 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\submenuempleados.h
+
+1719767962 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\submenuservicio.h
+
+1719775619 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\submenufacturacion.h
+
+1719196232 c:\users\celin\onedrive\escritorio\tp final\tp_final_labo2_v16\tp_final_lab2_12\submenuconfiguracion.h
+
+1719785852 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1719803023 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\clasefecha.h
+
+1719536072 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\funciones.h
+
+1719777512 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\menuprincipal.h
+
+1719796146 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\clasemascota.h
+
+1719802995 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\archivomascota.h
+
+1719802995 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\clasepropietario.h
+
+1719803068 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\archivopropietario.h
+
+1718762180 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\claseempleado.h
+
+1719714314 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\archivoempleado.h
+
+1719192337 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719714033 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719793241 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\claseservicio.h
+
+1719768568 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\archivoservicio.h
+
+1719534559 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\clasefacturacion.h
+
+1719800289 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\archivofacturacion.h
+
+1719773632 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719776808 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719786183 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\submenumodificar.h
+
+1719803374 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\submenupropietarios.h
+
+1719786183 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\submenuempleados.h
+
+1719803374 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\submenuservicio.h
+
+1719798317 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\submenufacturacion.h
+
+1719803374 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v17\tp_final_labo2_v16\tp_final_lab2_12\submenuconfiguracion.h
+
+1719785852 source:c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1719803023 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\clasefecha.h
+
+1719536072 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\funciones.h
+
+1719872822 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\menuprincipal.h
+
+1719879566 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\clasemascota.h
+
+1719879663 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\archivomascota.h
+
+1719880152 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\clasepropietario.h
+
+1719880372 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\archivopropietario.h
+
+1718762180 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\claseempleado.h
+
+1719714314 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\archivoempleado.h
+
+1719192337 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719714033 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719878878 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\claseservicio.h
+
+1719876552 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\archivoservicio.h
+
+1719875488 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\clasefacturacion.h
+
+1719800289 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\archivofacturacion.h
+
+1719876373 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719883088 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719786183 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\submenumodificar.h
+
+1719811516 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\submenupropietarios.h
+
+1719786183 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\submenuempleados.h
+
+1719882884 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\submenuservicio.h
+
+1719883088 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\submenufacturacion.h
+
+1719803374 c:\users\celin\onedrive\escritorio\tp_final_labo2_v19\tp_final_labo2_v19\tp_final_lab2_12\submenuconfiguracion.h
+
+1719785852 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1719896569 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\clasefecha.h
+
+1719536072 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\funciones.h
+
+1719872822 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\menuprincipal.h
+
+1719898457 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\clasemascota.h
+
+1719898034 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\archivomascota.h
+
+1719880152 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\clasepropietario.h
+
+1719896674 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\archivopropietario.h
+
+1718762180 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\claseempleado.h
+
+1719895564 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\archivoempleado.h
+
+1719192337 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719714033 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719898255 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\claseservicio.h
+
+1719899071 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\archivoservicio.h
+
+1719875488 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\clasefacturacion.h
+
+1719800289 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\archivofacturacion.h
+
+1719876373 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719883088 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719786183 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\submenumodificar.h
+
+1719811516 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\submenupropietarios.h
+
+1719891376 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\submenuempleados.h
+
+1719882884 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\submenuservicio.h
+
+1719883088 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\submenufacturacion.h
+
+1719803374 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v20\tp_final_lab2_12\submenuconfiguracion.h
+
+1719960362 source:c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1719958822 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\clasefecha.h
+
+1719536072 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\funciones.h
+
+1719949573 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\menuprincipal.h
+
+1719961628 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\clasemascota.h
+
+1719961822 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\archivomascota.h
+
+1719962028 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\clasepropietario.h
+
+1719960579 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\archivopropietario.h
+
+1719962166 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\claseempleado.h
+
+1719962187 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\archivoempleado.h
+
+1719192337 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719958456 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719959325 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\claseservicio.h
+
+1719958524 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\archivoservicio.h
+
+1719939105 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\clasefacturacion.h
+
+1719957603 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\archivofacturacion.h
+
+1719945220 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719952267 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\submenumodificar.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\submenupropietarios.h
+
+1719960508 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\submenuempleados.h
+
+1719959547 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\submenuservicio.h
+
+1719950476 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\submenufacturacion.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp_final_labo2_v21\tp_final_labo2_v20\tp_final_lab2_12\submenuconfiguracion.h
+
+1720035094 source:c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1720028440 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\clasefecha.h
+
+1719536072 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\funciones.h
+
+1719949573 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\menuprincipal.h
+
+1720034885 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\clasemascota.h
+
+1720031504 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\archivomascota.h
+
+1720033342 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\clasepropietario.h
+
+1720034172 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\archivopropietario.h
+
+1719962166 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\claseempleado.h
+
+1719962323 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\archivoempleado.h
+
+1719192337 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\clasedescripcionservicio.h
+
+1719958456 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\archivodescripcionservicio.h
+
+1719959325 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\claseservicio.h
+
+1719958524 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\archivoservicio.h
+
+1719939105 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\clasefacturacion.h
+
+1719957603 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\archivofacturacion.h
+
+1719945220 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\clasedetallefacturacion.h
+
+1719952267 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\archivodetallefacturacion.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\submenumodificar.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\submenupropietarios.h
+
+1719960508 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\submenuempleados.h
+
+1719959547 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\submenuservicio.h
+
+1719950476 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\submenufacturacion.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp_final_lab2_22\tp_final_lab2_12\submenuconfiguracion.h
+
+1720047097 source:d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1720054539 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\clasefecha.h
+
+1719536072 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\funciones.h
+
+1720046707 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\menuprincipal.h
+
+1720034885 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\clasemascota.h
+
+1720039544 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\archivomascota.h
+
+1720036143 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\clasepropietario.h
+
+1720048486 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\archivopropietario.h
+
+1719962166 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\claseempleado.h
+
+1719962323 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\archivoempleado.h
+
+1719192337 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\clasedescripcionservicio.h
+
+1720051002 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\archivodescripcionservicio.h
+
+1720050114 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\claseservicio.h
+
+1719958524 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\archivoservicio.h
+
+1719939105 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\clasefacturacion.h
+
+1720058272 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\archivofacturacion.h
+
+1719945220 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\clasedetallefacturacion.h
+
+1720057256 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\archivodetallefacturacion.h
+
+1720039544 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\submenumodificar.h
+
+1720037741 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\submenupropietarios.h
+
+1719960508 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\submenuempleados.h
+
+1719959547 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\submenuservicio.h
+
+1719950476 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\submenufacturacion.h
+
+1719937746 d:\utn\cursando\lab\9.trabajopracticofinal\11\tp_final_lab2_24\submenuconfiguracion.h
+
+1720047097 source:c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1720054539 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\clasefecha.h
+
+1719536072 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\funciones.h
+
+1720046707 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\menuprincipal.h
+
+1720034885 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\clasemascota.h
+
+1720039544 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\archivomascota.h
+
+1720036143 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\clasepropietario.h
+
+1720048486 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\archivopropietario.h
+
+1719962166 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\claseempleado.h
+
+1719962323 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\archivoempleado.h
+
+1719192337 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\clasedescripcionservicio.h
+
+1720051002 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\archivodescripcionservicio.h
+
+1720050114 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\claseservicio.h
+
+1719958524 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\archivoservicio.h
+
+1719939105 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\clasefacturacion.h
+
+1720059806 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\archivofacturacion.h
+
+1719945220 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\clasedetallefacturacion.h
+
+1720061175 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\archivodetallefacturacion.h
+
+1720039544 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\submenumodificar.h
+
+1720037741 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\submenupropietarios.h
+
+1719960508 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\submenuempleados.h
+
+1719959547 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\submenuservicio.h
+
+1719950476 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\submenufacturacion.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp labbb\tp_final_lab2_24\submenuconfiguracion.h
+
+1720063998 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1720054539 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\clasefecha.h
+
+1720064279 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\funciones.h
+
+1720064353 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\menuprincipal.h
+
+1720063719 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\clasemascota.h
+
+1720063966 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\archivomascota.h
+
+1720064262 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\clasepropietario.h
+
+1720064129 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\archivopropietario.h
+
+1719962166 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\claseempleado.h
+
+1719962323 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\archivoempleado.h
+
+1719192337 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\clasedescripcionservicio.h
+
+1720063382 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\archivodescripcionservicio.h
+
+1720063185 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\claseservicio.h
+
+1719958524 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\archivoservicio.h
+
+1720064220 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\clasefacturacion.h
+
+1720063661 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\archivofacturacion.h
+
+1719945220 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\clasedetallefacturacion.h
+
+1720061175 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\archivodetallefacturacion.h
+
+1720039544 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\submenumodificar.h
+
+1720037741 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\submenupropietarios.h
+
+1719960508 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\submenuempleados.h
+
+1719959547 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\submenuservicio.h
+
+1719950476 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\submenufacturacion.h
+
+1719937746 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_v27\tp_final_lab2_24\submenuconfiguracion.h
+
+1720063998 source:c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1720054539 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasefecha.h
+
+1720064279 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\funciones.h
+
+1720064353 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\menuprincipal.h
+
+1720063719 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasemascota.h
+
+1720063966 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivomascota.h
+
+1720064262 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasepropietario.h
+
+1720064129 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivopropietario.h
+
+1719962166 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\claseempleado.h
+
+1719962323 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivoempleado.h
+
+1719192337 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasedescripcionservicio.h
+
+1720063382 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivodescripcionservicio.h
+
+1720063185 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\claseservicio.h
+
+1719958524 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivoservicio.h
+
+1720064220 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasefacturacion.h
+
+1720063661 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivofacturacion.h
+
+1719945220 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasedetallefacturacion.h
+
+1720061175 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivodetallefacturacion.h
+
+1720039544 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenumodificar.h
+
+1720037741 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenupropietarios.h
+
+1719960508 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenuempleados.h
+
+1719959547 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenuservicio.h
+
+1719950476 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenufacturacion.h
+
+1719937746 c:\users\lenovo\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenuconfiguracion.h
+
+1720063998 source:c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<locale.h>
+	<chrono>
+	<iomanip>
+	<sstream>
+	"ClaseFecha.h"
+	"Funciones.h"
+	"MenuPrincipal.h"
+	"ClaseMascota.h"
+	"ArchivoMascota.h"
+	"ClasePropietario.h"
+	"ArchivoPropietario.h"
+	"ClaseEmpleado.h"
+	"ArchivoEmpleado.h"
+	"ClaseDescripcionServicio.h"
+	"ArchivoDescripcionServicio.h"
+	"ClaseServicio.h"
+	"ArchivoServicio.h"
+	"ClaseFacturacion.h"
+	"ArchivoFacturacion.h"
+	"ClaseDetalleFacturacion.h"
+	"ArchivoDetalleFacturacion.h"
+	"submenuModificar.h"
+	"submenuPropietarios.h"
+	"submenuEmpleados.h"
+	"submenuServicio.h"
+	"submenuFacturacion.h"
+	"submenuConfiguracion.h"
+
+1720054539 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasefecha.h
+
+1720064279 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\funciones.h
+
+1720064353 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\menuprincipal.h
+
+1720063719 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasemascota.h
+
+1720063966 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivomascota.h
+
+1720064262 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasepropietario.h
+
+1720064129 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivopropietario.h
+
+1719962166 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\claseempleado.h
+
+1720098961 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivoempleado.h
+
+1719192337 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasedescripcionservicio.h
+
+1720063382 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivodescripcionservicio.h
+
+1720099237 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\claseservicio.h
+
+1720099268 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivoservicio.h
+
+1720064220 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasefacturacion.h
+
+1720063661 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivofacturacion.h
+
+1719945220 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\clasedetallefacturacion.h
+
+1720061175 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\archivodetallefacturacion.h
+
+1720039544 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenumodificar.h
+
+1720037741 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenupropietarios.h
+
+1719960508 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenuempleados.h
+
+1719959547 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenuservicio.h
+
+1719950476 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenufacturacion.h
+
+1719937746 c:\users\celin\onedrive\escritorio\tp_final_labo2_grupo13\tp_final_labo2_grupo13\tp_final_labo2_v27\tp_final_lab2_24\submenuconfiguracion.h
+
